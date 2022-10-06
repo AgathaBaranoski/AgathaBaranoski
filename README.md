@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AgathaBaranoski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AgathaBaranoski/AgathaBaranoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+joh-eun achim :)
+- 👋 Oi, eu sou @AgathaBaranoski.
+-👀 Tenho interesse em aprender a arte.
+- 🌱 Estou aprendendo HTML.
+-💞️ Estou procurando colaborar em pensamento computacional.
+- 📫 Como chegar até mim. @agatha.jesus@escola.pr.gov.br.
